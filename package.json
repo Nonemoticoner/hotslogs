@@ -24,6 +24,10 @@
     "blizzard",
     "api",
     "heroesofthestorm",
-    "ranking"
-  ]
+    "ranking",
+    "mmr"
+  ],
+  "dependencies": {
+    "request": "^2.69.0"
+  }
 }
