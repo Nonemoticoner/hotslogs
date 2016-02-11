@@ -1,0 +1,29 @@
+{
+  "name": "hotslogs",
+  "version": "1.0.0",
+  "description": "A Node module for HOTS (Heroes of the Storm) Logs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nonemoticoner/hotslogs.git"
+  },
+  "author": "Nonemoticoner <nonemoticoner@gmail.com> (https://nonemoticoner.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nonemoticoner/hotslogs/issues"
+  },
+  "homepage": "https://github.com/Nonemoticoner/hotslogs#readme",
+  "keywords": [
+    "js",
+    "javascript",
+    "hots",
+    "logs",
+    "blizzard",
+    "api",
+    "heroesofthestorm",
+    "ranking"
+  ]
+}
