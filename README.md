@@ -59,7 +59,7 @@ The above function allows you to acquire such kind of object:
 ```
 
 #### Remark
-It is unofficial API support for (http://www.hotslogs.com).
+It is unofficial API support for http://www.hotslogs.com.
 
 #### License
 MIT
