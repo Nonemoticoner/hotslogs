@@ -1,3 +1,5 @@
+> ❗️[Hotslogs.com has officially shut down](https://www.reddit.com/r/heroesofthestorm/comments/15e1vsi/hotslogscom_is_officially_shutting_down/). Web API they were providing was the base of this package. Therefore, it is useless now and thus repo has been archived.
+
 # hotslogs
 A Node module for HOTS (Heroes of the Storm) Logs.
 
